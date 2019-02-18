@@ -72,5 +72,5 @@
     StackWalking.m1(StackWalking.java:8)
     StackWalkingTest.simulation(StackWalkingTest.java:10)
     .. // other
-    ___
+    ---
     ```
