@@ -6,7 +6,7 @@ import org.junit.Test;
 public class StackWalkingTest {
 
     @Test
-    public void usingThread() {
+    public void simulation() {
         new StackWalking().m1();
     }
 }
