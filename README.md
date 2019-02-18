@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java8-stack-stackwalking.svg?branch=master)](https://travis-ci.com/mtumilowicz/java8-stack-stackwalking)
+
 # java8-stack-stackwalking
 
 # manual
