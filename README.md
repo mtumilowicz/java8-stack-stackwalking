@@ -3,6 +3,7 @@
 # java8-stack-stackwalking
 
 # manual
+* theory: https://github.com/mtumilowicz/java-stack
 * `StackTraceElement` class represents a stack frame
     * useful methods:
         * `int getLineNumber()`
